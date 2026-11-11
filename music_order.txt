@@ -1,0 +1,95 @@
+// MusicReplacer 左侧音频顺序表（自动同步）
+// 每行一个游戏内真实 MusicCue 名称，可调整顺序。改完重启游戏生效。
+// 以 // 或 # 开头的行会被忽略；未列出的真实曲目会自动补到末尾。
+
+LostLace2
+LostLace
+Hunter Queen Carmelita
+Pinstress
+BellBattle
+Creepy Boss Main
+Creepy Boss Ambient
+SongGolem
+FinalJudge
+Coral King
+Silk Boss Ambient B
+Silk Boss B
+Silk Boss A
+Grand Forum Battle
+Phantom
+Seth Battle
+Boss Strive
+LaceBattle
+Enemy Battle Abyss
+RipAndShred
+SpinnerRage
+Spinner
+Enemy Battle Small
+Coral Tower Battle
+FlowerBattle
+Cloak Battle
+Enemy Battle Mid
+Enemy Battle Grind
+Abyss Tension
+LastDivePrologue
+Abyss
+Abyss Ascent
+Hunters Trail
+Aqueducts
+Memorium
+Belltown
+Belltown_Cursed
+Belltown Act3
+Shrine
+Peak
+Bonetown
+Boneforest
+Vaults
+Cloverland
+CloverDancers
+Cogwork Core
+Coral Ruins
+Coral_Gorge
+Ambience Citadel Surrounds
+Coral Tower Ambient
+Cradle
+SurfaceAscent
+Crawl
+Deep Docks
+Deep Deep Docks
+MistMaze
+Dustpens
+Greymoor
+CitadelHang
+Red Memory
+Shellwood
+Slab
+Enclave
+LaceDefeated
+CitadelHalls
+Shadow
+Weaverlands
+Mosstown
+MossCave
+Understore
+Ward
+Wilds
+Wisp
+Chapel
+Chapel Action
+Title
+Trobbio
+TormentedTrobbio
+// 以下 13 首为「直接播放长音乐」：不经 MusicCue，替换走 direct 路径；未知文本暂留空
+Final_Credits
+Fleatopia Paired Back B
+Enclave_Credits
+Shrine Act 3
+Hunters Trail Battle
+Fleatopia Paired Back A
+H181ClockworkDancers3rdPhase
+H181ClockworkDancers4thPhase
+Mini Games-07
+Flea Festival
+H181ClockworkDancers1stPhase
+H181ClockworkDancers2ndPhase

@@ -1,0 +1,85 @@
+LostLace2	Final Fight v2-10 Phase 2
+Enemy Battle Abyss	Abyss Battle Loop
+LostLace	Final Fight v2-10 Phase 1 v2
+LastDivePrologue	Last Dive Prologue v2 Layer 2|Last Dive Prologue v2 Layer 3|Last Dive Prologue v2 Layer 1
+Abyss	H221 tense|Abyss-01
+Abyss Ascent	H15-111 MAIN|H15-111 MAIN ACTION|H15-111 SUB
+Hunters Trail	H82 Hunters Trail v4-47 MAIN|H82 Hunters Trail v4-47 ACTION
+Hunter Queen Carmelita	H87 Flower Live Vox-117 Game ORCH STEM w intro vox|H87 Flower paired back orch stem|H87 Flower Live Vox-117 Game VOX STEM w intro vox
+RipAndShred	RIP AND SHRED
+Pinstress	Pinstress Battle
+Aqueducts	Tomb
+Memorium	H190 Memorium
+BellBattle	H177 Bell Beast with Live-17
+Belltown	Bellhart
+Bell_Surrounds	Bell Ambient Music
+Belltown_Cursed	H74 Bellheart Cursed-08
+Belltown Act3	Bell Ambient Music
+Shrine	H6-08 Safe
+Creepy Boss Main	Creepy Main
+Creepy Boss Ambient	Creepy Ambient
+SpinnerRage	Shreddy Re-arrangement 2nd phase
+Spinner	Shreddy Game
+Boneforest	H49-102 MAIN BONE|H49-102 MAIN LAVA|H49-102 ACTION|H49-102 SUB
+Deep Docks	H56-13 Deep|H49-102 ACTION
+Peak	H80-12 PEAK MAIN|H80-12 PEAK CRYSTAL|H80-12 PEAK SUB
+Bonetown	Bonetown_main
+SongGolem	H92 Chorus
+Vaults	New Vaults Temp
+Enemy Battle Small	H49-102 ACTION
+Cloverland	H101-62 ASPID REVISED|H101-62 ASPID REVISED SUB
+CloverDancers	Clover Dancers Revision-12
+Memory	Memories
+Cogwork Core	Cogwork Core v2 MAIN|Cogwork Core v2 SUB
+Coral Ruins	Coral Ruins Main|Coral Ruins Sub
+Coral_River	Coral_Gorge_Main|Coral_Gorge_Sub
+Coral_Gorge	H116 Coral Steps-42 MAIN ALT|H116 Coral Steps-42 SUB
+FinalJudge	H118 Final Judge v2-105
+Coral King	H85 Coral Boss v2-170
+Ambience Citadel Surrounds	H182 ambient citadel surrounds
+Coral Tower Ambient	Coral Tower Ambient-03
+Coral Tower Battle	Coral Tower Battle-12
+Cradle	Ambient Silk|Ambient Silk Escalated|Ambient Silk Tension Sub
+Silk Boss Ambient B	Ambient Silk Escalated
+Silk Boss B	H191-14 SILK B
+SurfaceAscent	H129-25 Weaver experiment 2
+Silk Boss A	H191-09 SILK A
+Crawl	Ways
+Deep Deep Docks	DeepDeepDocks
+MistMaze	H159_MistMazeMain|H159_MistMazeAmbient|H159_MistMazeSub|MistmazeSingleNote
+Dustpens	Dust-fromSwampMain|Dust-fromSwampSub
+Greymoor	H108-71 Greymoor v4 MAIN|H204 Generic Enemy Battle A Track|H196-25 Strive|H108-71 Greymoor v4 SUB
+CitadelHang	H180-02 HANG
+Grand Forum Battle	H170 v2-04 Choir Battle Track
+Red Memory	RedMemory 4 Theme Alt|RedMemory 3 Theme Layer B|RedMemory 6 Theme Big Stand|RedMemory 1 Drone|RedMemory 2 Theme Layer A
+MossCave Act3	H32 Moss Cave-60 SUB
+Phantom	H78 Phantom of the Organ RESTRUCTURE-33
+MistMaze_Organ	H159_MistMazeMain|H159_MistMazeSub
+Shellwood	Shellwood_main|H49-102 ACTION|Shellwood_sub
+Seth Battle	Seth
+FlowerBattle	Petals v2
+Slab	H207 OpenUp only additional layer|H207 OpenUp|H207 OpenUp with additional layer 2
+Cloak Battle	Cloak Rescue
+FirstWeaver	H129-25 Weaver experiment 1
+Enclave	H121 Enclave Split Main|H121 Enclave Split Sub
+LaceDefeated	Lace After Fight
+CitadelHalls Act3	H149-88 Citadel Halls SUB
+CitadelHalls	H149-88 Citadel Halls MAIN|H149-88 Citadel Halls SUB
+Shadow	Sad Wanderer - MAIN|Sad Wanderer - SUB
+Weaverlands	Memories
+Mosstown	H49-102 MAIN MOSSTOWN|H49-102 MOSSTOWN SUB
+MossCave	H32 Moss Cave-60 MAIN|H32 Moss Cave-60 SUB
+Understore	H208 Oppressed Main|H208 Oppressed Sub
+Ward	H129-25 ward
+Wilds	H117 Wilds-30 MAIN|H117 Wilds-30 SUB
+Wisp	H211 Bit Dreamy
+Enemy Battle Mid	H204 Generic Enemy Battle A Track
+Enemy Battle Grind	Grind Main Layer|Grind Big Layer|Grind Perc Option v2
+Abyss Tension	Tension Two
+SmallBattle	H49-102 ACTION
+Boss Strive	H196-25 Strive
+Chapel	H182 Chapel Ambient|H182 Chapel Ambient Battle Layer
+LaceBattle	H54-220 Lace Battle
+Title	Title
+Trobbio	H144-71 WIP Trobbio
+TormentedTrobbio	Tormented Trobbio v2-06

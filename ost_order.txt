@@ -1,0 +1,94 @@
+// MusicReplacer OST 基准顺序（按OST排序 / 按种类排序 / 按音轨排序 的共同组内基准）
+// 由 build_ost_order.py 从 导出/音乐列表总表_合并.xlsx 第 M 列「按OST排序」生成。
+// 每行一个面板曲目名，行号即 OST 顺位；M 值相同者保持 Excel 中的行序。
+// 改了 Excel 的 M 列后重跑本脚本，再重启游戏生效。
+
+Abyss Ascent
+MossCave
+Boss Strive
+Bonetown
+Boneforest
+BellBattle
+Shrine
+Deep Deep Docks
+LaceBattle
+Wilds
+SongGolem
+Greymoor
+RipAndShred
+Belltown
+Spinner
+SpinnerRage
+Shellwood
+Creepy Boss Main
+Hunters Trail
+Dustpens
+Enemy Battle Grind
+Shadow
+MistMaze
+Phantom
+Slab
+Cloak Battle
+Peak
+Coral_Gorge
+FinalJudge
+Understore
+CitadelHalls
+Enclave
+H181ClockworkDancers1stPhase
+H181ClockworkDancers2ndPhase
+H181ClockworkDancers3rdPhase
+H181ClockworkDancers4thPhase
+Cogwork Core
+Vaults
+Trobbio
+CitadelHang
+Grand Forum Battle
+Cradle
+Silk Boss Ambient B
+Silk Boss A
+Silk Boss B
+Abyss
+Enemy Battle Abyss
+Shrine Act 3
+Seth Battle
+FlowerBattle
+Hunter Queen Carmelita
+Coral Ruins
+Coral King
+Cloverland
+CloverDancers
+Fleatopia Paired Back B
+TormentedTrobbio
+Red Memory
+LastDivePrologue
+LostLace
+LostLace2
+Final_Credits
+Title
+Enemy Battle Small
+Mosstown
+Deep Docks
+Enemy Battle Mid
+Crawl
+Chapel
+Chapel Action
+Belltown_Cursed
+Creepy Boss Ambient
+Fleatopia Paired Back A
+Weaverlands
+Mini Games-07
+Ambience Citadel Surrounds
+Ward
+Memorium
+Aqueducts
+Wisp
+LaceDefeated
+Abyss Tension
+Belltown Act3
+Coral Tower Ambient
+Coral Tower Battle
+Flea Festival
+Pinstress
+SurfaceAscent
+Enclave_Credits

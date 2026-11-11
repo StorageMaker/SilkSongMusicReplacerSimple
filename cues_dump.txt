@@ -1,0 +1,3 @@
+MusicReplacer 实际播放 MusicCue 发现日志（真实音频标识）
+格式: 资产名 | OriginalMusicEventName | 各通道clip名
+Title | event=TITLE | clips=MR_Title,null,null,null,null,null

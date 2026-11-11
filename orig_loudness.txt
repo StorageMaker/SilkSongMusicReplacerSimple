@@ -1,0 +1,104 @@
+// MusicReplacer 原曲真实响度表 v6.34：由 clip_loudness.json 全声部能量叠加生成。
+// 检测方式：从游戏资源包解出该曲每个声部的真实 PCM，排除氛围层后按能量相加。
+// 列：曲名<TAB>目标RMS(dBFS)<TAB>峰值(dBFS)<TAB>声部数<TAB>主通道RMS(dBFS)<TAB>有效声部数
+// 游戏内 AudioClip 为 Streaming 类型，运行时 AudioClip.GetData 读不到采样，故必须查本表。
+LostLace2	-17.39	-0.69	1	-17.39	1
+LostLace	-21.29	-3.60	1	-21.29	1
+Hunter Queen Carmelita	-17.71	-3.56	3	-20.72	3
+Pinstress	-22.39	-7.27	1	-22.39	1
+BellBattle	-19.86	-3.55	1	-19.86	1
+Creepy Boss Main	-23.56	-6.17	1	-23.56	1
+Creepy Boss Ambient	-33.32	-15.23	1	-33.32	1
+SongGolem	-20.11	-1.85	1	-20.11	1
+FinalJudge	-20.74	-4.11	1	-20.74	1
+Coral King	-18.48	-4.92	1	-18.48	1
+Silk Boss Ambient B	-16.88	0.00	1	-16.88	1
+Silk Boss B	-18.24	-2.71	1	-18.24	1
+Silk Boss A	-19.67	-1.94	1	-19.67	1
+Grand Forum Battle	-20.48	-5.18	1	-20.48	1
+Phantom	-19.52	-0.97	1	-19.52	1
+Seth Battle	-26.97	-10.18	1	-26.97	1
+Boss Strive	-21.86	-5.90	1	-21.86	1
+LaceBattle	-20.68	-4.14	1	-20.68	1
+Enemy Battle Abyss	-21.06	-4.56	1	-21.06	1
+RipAndShred	-19.16	-2.85	1	-19.16	1
+SpinnerRage	-16.77	-2.03	1	-16.77	1
+Spinner	-20.12	-3.85	1	-20.12	1
+Enemy Battle Small	-26.27	-8.10	1	-26.27	1
+Coral Tower Battle	-21.89	-5.87	1	-21.89	1
+FlowerBattle	-20.44	-3.96	1	-20.44	1
+Cloak Battle	-22.61	-4.86	1	-22.61	1
+Enemy Battle Mid	-21.06	-3.56	1	-21.06	1
+Enemy Battle Grind	-16.73	-4.04	3	-20.53	3
+Abyss Tension	-21.89	-4.90	1	-21.89	1
+LastDivePrologue	-18.62	-3.69	3	-25.93	3
+Abyss	-19.94	-5.17	2	-22.43	2
+Abyss Ascent	-14.87	0.00	3	-19.29	3
+Hunters Trail	-22.42	-7.39	2	-26.97	2
+Aqueducts	-28.46	-13.65	1	-28.46	1
+Memorium	-29.23	-11.97	1	-29.23	1
+Belltown	-25.38	-8.67	1	-25.38	1
+Belltown_Cursed	-38.32	-21.85	1	-38.32	1
+Belltown Act3	-28.13	-8.38	1	-28.13	1
+Shrine	-31.20	-13.79	1	-31.20	1
+Peak	-26.61	-8.28	3	-28.32	3
+Bonetown	-27.70	-10.04	1	-27.70	1
+Boneforest	-21.27	-2.50	4	-27.81	4
+Vaults	-27.29	-9.89	1	-27.29	1
+Cloverland	-25.28	-8.04	2	-25.80	2
+CloverDancers	-18.26	-1.31	1	-18.26	1
+Cogwork Core	-19.30	-5.77	2	-29.70	2
+Coral Ruins	-27.64	-11.75	2	-29.91	2
+Coral_Gorge	-24.61	-8.69	2	-25.90	2
+Ambience Citadel Surrounds	-33.41	-17.94	1	-33.41	1
+Coral Tower Ambient	-27.23	-11.18	1	-27.23	1
+Cradle	-15.18	0.00	3	-20.34	3
+SurfaceAscent	-24.88	-6.76	1	-24.88	1
+Crawl	-27.10	-7.15	1	-25.45	1
+Deep Docks	-18.43	-1.92	2	-19.21	2
+Deep Deep Docks	-22.31	-5.63	1	-22.31	1
+MistMaze	-27.91	-14.25	4	-31.15	4
+Dustpens	-24.49	-6.81	2	-37.18	2
+Greymoor	-17.91	-3.56	4	-27.83	4
+CitadelHang	-25.61	-8.44	1	-25.61	1
+Red Memory	-20.71	-7.12	5	-30.20	5
+Shellwood	-23.34	-8.10	3	-34.21	3
+Slab	-24.13	-9.14	3	-31.09	3
+Enclave	-26.91	-10.28	2	-28.99	2
+LaceDefeated	-35.61	-16.84	1	-35.61	1
+CitadelHalls	-22.58	-5.36	2	-24.33	2
+Shadow	-29.55	-11.58	2	-30.07	2
+Weaverlands	-32.59	-11.17	1	-32.59	1
+Mosstown	-28.62	-10.77	2	-29.29	2
+MossCave	-27.26	-8.40	2	-28.05	2
+Understore	-25.20	-7.78	2	-30.58	2
+Ward	-39.93	-21.07	1	-39.93	1
+Wilds	-27.69	-7.03	2	-27.75	2
+Wisp	-25.57	-9.73	1	-25.57	1
+Chapel	-25.38	-10.87	2	-28.95	2
+Title	-33.54	-16.56	1	-33.54	1
+Trobbio	-21.75	-7.88	1	-21.75	1
+TormentedTrobbio	-19.28	-2.18	1	-19.28	1
+Final_Credits	-27.24	-5.44	1	-27.24	1
+Fleatopia Paired Back B	-27.55	-10.62	1	-27.55	1
+Enclave_Credits	-25.55	-7.25	1	-25.55	1
+Shrine Act 3	-28.63	-9.92	1	-28.63	1
+Fleatopia Paired Back A	-31.50	-13.68	1	-31.50	1
+H181ClockworkDancers3rdPhase	-18.90	-2.89	1	-18.90	1
+H181ClockworkDancers4thPhase	-36.01	-16.23	1	-36.01	1
+Mini Games-07	-29.66	-12.65	1	-29.66	1
+Flea Festival	-23.52	-6.91	1	-23.52	1
+H181ClockworkDancers1stPhase	-24.53	-5.51	1	-24.53	1
+H181ClockworkDancers2ndPhase	-24.40	-7.14	1	-24.40	1
+CitadelHalls Act3	-27.39	-6.75	1	-27.39	1
+FirstWeaver	-40.59	-20.98	1	-40.59	1
+Memory	-32.59	-11.17	1	-32.59	1
+MistMaze_Organ	-29.71	-14.25	2	-31.15	2
+MossCave Act3	-35.05	-12.70	1	-35.05	1
+Silk Boss Ambient A	-20.34	-4.15	1	-20.34	1
+Deep Melody tension v2-04	-36.22	-21.71	1	-36.22	1
+H182 ambient peaceful	-28.66	-12.03	1	-28.66	1
+Bell_Surrounds	-28.13	-8.38	1	-28.13	1
+Coral_River	-29.23	-12.69	2	-29.23	2
+SmallBattle	-26.27	-8.10	1	-26.27	1
+#MEDIAN=-24.61

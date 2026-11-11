@@ -1,0 +1,34 @@
+// 预加载时原声资源包尚未被游戏加载的曲目
+// 这些曲目点击试听时会自动即时加载（关闭面板即释放），进入对应区域后由游戏自己加载，无需手动操作。
+Hunter Queen Carmelita
+BellBattle
+Creepy Boss Main
+Creepy Boss Ambient
+SongGolem
+Grand Forum Battle
+Phantom
+Boss Strive
+RipAndShred
+Enemy Battle Mid
+Enemy Battle Grind
+Abyss Tension
+Memorium
+Belltown
+Belltown_Cursed
+Belltown Act3
+Vaults
+Cloverland
+CloverDancers
+Cogwork Core
+Deep Docks
+Deep Deep Docks
+MistMaze
+Dustpens
+Greymoor
+Red Memory
+Slab
+Weaverlands
+Understore
+Ward
+Wisp
+Mini Games-07

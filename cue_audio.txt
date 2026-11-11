@@ -1,0 +1,117 @@
+// MusicReplacer 原声索引：曲名<TAB>主通道clip名<TAB>资源包相对路径<TAB>bundle内完整资产路径
+// 由游戏资源离线解析生成；每首曲只保留 ch0 主通道，第4列用于 AssetBundle.LoadAsset 精确加载。
+
+Abyss	H221 tense	audiocuesstatic_assets_areaabyss.bundle	Assets/Audio/HornetMusic/H221 tense.wav
+Abyss Ascent	H15-111 MAIN	sfxstatic_assets_areaabyss.bundle	Assets/Audio/HornetMusic/Abyss Ascent/H15-111 MAIN.wav
+Abyss Cocoon	atmos_abyss_cocoon	sfxstatic_assets_areaabyss.bundle	Assets/Audio/Atmos/atmos_abyss_cocoon.wav
+Abyss Tension	Tension Two	sfxstatic_assets_areacogareacoralblackthread.bundle	Assets/Audio/HornetMusic/Tension Two.wav
+Ambience Citadel Surrounds	H182 ambient citadel surrounds	sfxstatic_assets_areacoralarealibraryareasong.bundle	Assets/Audio/HornetMusic/Citadel/H182 ambient citadel surrounds.wav
+Aqueducts	Tomb	sfxstatic_assets_areaaqueduct.bundle	Assets/Audio/HornetMusic/Tomb.wav
+Arborium	atmos_arborium	sfxstatic_assets_areaarborium.bundle	Assets/Audio/Atmos/atmos_arborium.wav
+BellBattle	H177 Bell Beast with Live-17	audiocuesstatic_assets_areabell.bundle	Assets/Audio/HornetMusic/Battle/H177 Bell Beast with Live-17.wav
+Belltown	Bellhart	audiocuesstatic_assets_areabell.bundle	Assets/Audio/HornetMusic/BELL TOWN/Bellhart.wav
+Belltown Act3	Bell Ambient Music	audiocuesstatic_assets_areabell.bundle	Assets/Audio/HornetMusic/BELL TOWN/Bell Ambient Music.wav
+Belltown_Cursed	H74 Bellheart Cursed-08	audiocuesstatic_assets_areabell.bundle	Assets/Audio/HornetMusic/BELL TOWN/H74 Bellheart Cursed-08.wav
+Blasted Steps	atmos_blasted_steps	audiocuesstatic_assets_areacoral.bundle	Assets/Audio/Atmos/atmos_blasted_steps.wav
+Bonebottom Chasm	atmos_outside_wind_chasm	sfxstatic_assets_areabellshrineareaslabareasong.bundle	Assets/Audio/HornetMusic/ATMOS/atmos_outside_wind_chasm.wav
+Boneforest	H49-102 MAIN BONE	audiocuesstatic_assets_areabone.bundle	Assets/Audio/HornetMusic/BONEFOREST/H49-102 MAIN BONE.wav
+Bonetown	Bonetown_main	audiocuesstatic_assets_areabone.bundle	Assets/Audio/HornetMusic/BONE TOWN/Bonetown_main.wav
+Boss Strive	H196-25 Strive	audiocuesstatic_assets_areagreymoorboss.bundle	Assets/Audio/HornetMusic/Battle/H196-25 Strive.wav
+Chapel	H182 Chapel Ambient	audiocuesstatic_assets_candle.bundle	Assets/Audio/HornetMusic/H182 Chapel Ambient.wav
+Citadel Main	atmos_citadel_outside	audiocuesstatic_assets_areasong.bundle	Assets/Audio/Atmos/atmos_citadel_outside.wav
+Citadel Main Act 3	cave_atmos_misc_3	sfxstatic_assets_areahangareashellwood.bundle	Assets/Audio/Atmos/cave_atmos_misc_3.wav
+Citadel Main Unwoken	atmos_citadel_outside	audiocuesstatic_assets_areasong.bundle	Assets/Audio/Atmos/atmos_citadel_outside.wav
+CitadelHalls	H149-88 Citadel Halls MAIN	audiocuesstatic_assets_areasong.bundle	Assets/Audio/HornetMusic/Citadel/H149-88 Citadel Halls MAIN.wav
+CitadelHalls Act3	H149-88 Citadel Halls SUB	audiocuesstatic_assets_areasong.bundle	Assets/Audio/HornetMusic/Citadel/H149-88 Citadel Halls SUB.wav
+CitadelHang	H180-02 HANG	audiocuesstatic_assets_areahang.bundle	Assets/Audio/HornetMusic/Citadel/H180-02 HANG.wav
+Cloak Battle	Cloak Rescue	sfxstatic_assets_areaslab.bundle	Assets/Audio/HornetMusic/Battle/Cloak Rescue.wav
+CloverDancers	Clover Dancers Revision-12	audiocuesstatic_assets_areaclover.bundle	Assets/Audio/HornetMusic/Battle/Clover Dancers Revision-12.wav
+Cloverland	H101-62 ASPID REVISED	audiocuesstatic_assets_areaclover.bundle	Assets/Audio/HornetMusic/Cloverland/H101-62 ASPID REVISED.wav
+Cogwork Core	atmos_cogwork_core	audiocuesstatic_assets_areacog.bundle	Assets/Audio/Atmos/atmos_cogwork_core.wav
+Coral King	H85 Coral Boss v2-170	audiocuesstatic_assets_areacoral.bundle	Assets/Audio/HornetMusic/Battle/H85 Coral Boss v2-170.wav
+Coral Ruins	Coral Ruins Main	sfxstatic_assets_areacoral.bundle	Assets/Audio/HornetMusic/CORAL GORGE/Coral Ruins Main.wav
+Coral Tower	atmos_coral_gorge	audiocuesstatic_assets_areacoral.bundle	Assets/Audio/HornetMusic/ATMOS/atmos_coral_gorge.wav
+Coral Tower Ambient	Coral Tower Ambient-03	sfxstatic_assets_areacoralareamemory.bundle	Assets/Audio/HornetMusic/Battle/Coral Tower Ambient-03.wav
+Coral Tower Battle	Coral Tower Battle-12	sfxstatic_assets_areacoralareamemory.bundle	Assets/Audio/HornetMusic/Battle/Coral Tower Battle-12.wav
+Coral_Gorge	H116 Coral Steps-42 MAIN ALT	audiocuesstatic_assets_areacoral.bundle	Assets/Audio/HornetMusic/CORAL GORGE/H116 Coral Steps-42 MAIN ALT.wav
+Cradle	Ambient Silk	sfxstatic_assets_areacradle.bundle	Assets/Audio/HornetMusic/Battle/Ambient Silk.wav
+Crawl	atmos_crawl	sfxstatic_assets_areacrawl.bundle	Assets/Audio/Atmos/atmos_crawl.wav
+Creepy Boss Ambient	Creepy Ambient	sfxstatic_assets_areabellareashellwoodareaward.bundle	Assets/Audio/HornetMusic/Battle/Creepy Ambient.wav
+Creepy Boss Main	Creepy Main	sfxstatic_assets_areabellareacoralareashellwoodareaward.bundle	Assets/Audio/HornetMusic/Battle/Creepy Main.wav
+Deep Deep Docks	DeepDeepDocks	audiocuesstatic_assets_areadocks.bundle	Assets/Audio/HornetMusic/Docks/DeepDeepDocks.wav
+Deep Docks	H56-13 Deep	audiocuesstatic_assets_areadocks.bundle	Assets/Audio/HornetMusic/Docks/H56-13 Deep.wav
+Dustpens	atmos_dust	audiocuesstatic_assets_areadust.bundle	Assets/Audio/Atmos/atmos_dust.wav
+Enclave	H121 Enclave Split Main	sfxstatic_assets_areasong.bundle	Assets/Audio/HornetMusic/Citadel/H121 Enclave Split Main.wav
+Enemy Battle Abyss	Abyss Battle Loop	audiocuesstatic_assets_areaabyss.bundle	Assets/Audio/HornetMusic/Battle/Abyss Battle Loop.wav
+Enemy Battle Grind	Grind Main Layer	audiocuesstatic_assets_battle.bundle	Assets/Audio/HornetMusic/Battle/Grind Main Layer.wav
+Enemy Battle Mid	H204 Generic Enemy Battle A Track	audiocuesstatic_assets_areagreymoorbattle.bundle	Assets/Audio/HornetMusic/Battle/H204 Generic Enemy Battle A Track.wav
+Enemy Battle Small	H49-102 ACTION	audiocuesstatic_assets_areabone.bundle	Assets/Audio/HornetMusic/BONEFOREST/H49-102 ACTION.wav
+FinalJudge	H118 Final Judge v2-105	audiocuesstatic_assets_areacoral.bundle	Assets/Audio/HornetMusic/Battle/H118 Final Judge v2-105.wav
+FirstWeaver	H129-25 Weaver experiment 1	sfxstatic_assets_areaslab.bundle	Assets/Audio/HornetMusic/Battle/H129-25 Weaver experiment 1.wav
+FlowerBattle	Petals v2	sfxstatic_assets_areashellwood.bundle	Assets/Audio/HornetMusic/Battle/Petals v2.wav
+Grand Forum Battle	H170 v2-04 Choir Battle Track	sfxstatic_assets_areahangarealibrary.bundle	Assets/Audio/HornetMusic/Battle/H170 v2-04 Choir Battle Track.wav
+Greymoor	H108-71 Greymoor v4 MAIN	audiocuesstatic_assets_areagreymoor.bundle	Assets/Audio/HornetMusic/GREYMOOR/H108-71 Greymoor v4 MAIN.wav
+Hanging Garden	atmos_hanging_garden	sfxstatic_assets_areahang.bundle	Assets/Audio/Atmos/atmos_hanging_garden.wav
+Hunter Queen Carmelita	H87 Flower Live Vox-117 Game ORCH STEM w intro vox	audiocuesstatic_assets_areaant.bundle	Assets/Audio/HornetMusic/Battle/H87 Flower Live Vox-117 Game ORCH STEM w intro vox.wav
+Hunters March	atmos_ant_new	sfxstatic_assets_areaant.bundle	Assets/Audio/Atmos/atmos_ant_new.wav
+Hunters Trail	H82 Hunters Trail v4-47 MAIN	audiocuesstatic_assets_areaant.bundle	Assets/Audio/HornetMusic/Wilds/H82 Hunters Trail v4-47 MAIN.wav
+LaceBattle	H54-220 Lace Battle	sfxstatic_assets_laceboss.bundle	Assets/Audio/HornetMusic/Battle/H54-220 Lace Battle.wav
+LaceDefeated	Lace After Fight	sfxstatic_assets_areasong.bundle	Assets/Audio/HornetMusic/Battle/Lace After Fight.wav
+LastDivePrologue	Last Dive Prologue v2 Layer 2	audiocuesstatic_assets_areaabyss.bundle	Assets/Audio/HornetMusic/Last Dive Prologue v2 Layer 2.wav
+LostLace	Final Fight v2-10 Phase 1 v2	sfxstatic_assets_areaabyss.bundle	Assets/Audio/HornetMusic/Battle/Final Fight v2-10 Phase 1 v2.wav
+LostLace2	Final Fight v2-10 Phase 2	sfxstatic_assets_areaabyss.bundle	Assets/Audio/HornetMusic/Battle/Final Fight v2-10 Phase 2.wav
+Memorium	H190 Memorium	sfxstatic_assets_areaarborium.bundle	Assets/Audio/HornetMusic/Citadel/H190 Memorium.wav
+Memory	Memories	audiocuesstatic_assets_areamemory.bundle	Assets/Audio/HornetMusic/Memories.wav
+MistMaze	H159_MistMazeMain	audiocuesstatic_assets_areadustmaze.bundle	Assets/Audio/HornetMusic/Mist/H159_MistMazeMain.wav
+MistMaze_Organ	H159_MistMazeMain	audiocuesstatic_assets_areadustmaze.bundle	Assets/Audio/HornetMusic/Mist/H159_MistMazeMain.wav
+MossCave	H32 Moss Cave-60 MAIN	audiocuesstatic_assets_areatutorial.bundle	Assets/Audio/HornetMusic/MossCave/H32 Moss Cave-60 MAIN.wav
+MossCave Act3	H32 Moss Cave-60 SUB	audiocuesstatic_assets_areamoss.bundle	Assets/Audio/HornetMusic/MossCave/H32 Moss Cave-60 SUB.wav
+Mosstown	H49-102 MAIN MOSSTOWN	audiocuesstatic_assets_areamoss.bundle	Assets/Audio/HornetMusic/BONEFOREST/H49-102 MAIN MOSSTOWN.wav
+Peak	H80-12 PEAK MAIN	sfxstatic_assets_areabellwayareapeak.bundle	Assets/Audio/HornetMusic/Fae Mountain/H80-12 PEAK MAIN.wav
+Phantom	H78 Phantom of the Organ RESTRUCTURE-33	sfxstatic_assets_areaorgan.bundle	Assets/Audio/HornetMusic/Battle/H78 Phantom of the Organ RESTRUCTURE-33.wav
+Pharloom Chasm	cave_atmos_misc_3	sfxstatic_assets_areahangareashellwood.bundle	Assets/Audio/Atmos/cave_atmos_misc_3.wav
+Pinstress	Pinstress Battle	sfxstatic_assets_areaaqueduct.bundle	Assets/Audio/HornetMusic/Battle/Pinstress Battle.wav
+Red Memory	RedMemory 4 Theme Alt	sfxstatic_assets_areamemoryareatutorial.bundle	Assets/Audio/HornetMusic/Red Memory/RedMemory 4 Theme Alt.wav
+RipAndShred	RIP AND SHRED	sfxstatic_assets_areaantareaboneareacoralareamossareawilds.bundle	Assets/Audio/HornetMusic/Battle/RIP AND SHRED.wav
+Seth Battle	Seth	sfxstatic_assets_areashellwood.bundle	Assets/Audio/HornetMusic/Battle/Seth.wav
+Shadow	Sad Wanderer - MAIN	sfxstatic_assets_areaswamp.bundle	Assets/Audio/HornetMusic/Dustpens/Sad Wanderer - MAIN.wav
+Shellwood	atmos_shellwood	audiocuesstatic_assets_areashellwood.bundle	Assets/Audio/HornetMusic/ATMOS/atmos_shellwood.wav
+Shellwood Underlake	waterway_waterfall_large	audiocuesstatic_assets_water.bundle	Assets/Audio/Atmos/waterway_waterfall_large.wav
+Shrine	H6-08 Safe	sfxstatic_assets_shared.bundle	Assets/Audio/HornetMusic/SHRINE/H6-08 Safe.wav
+Silk Boss A	H191-09 SILK A	sfxstatic_assets_areacradle.bundle	Assets/Audio/HornetMusic/Battle/H191-09 SILK A.wav
+Silk Boss Ambient A	Ambient Silk	sfxstatic_assets_areacradle.bundle	Assets/Audio/HornetMusic/Battle/Ambient Silk.wav
+Silk Boss Ambient B	Ambient Silk Escalated	sfxstatic_assets_areacradle.bundle	Assets/Audio/HornetMusic/Battle/Ambient Silk Escalated.wav
+Silk Boss B	H191-14 SILK B	sfxstatic_assets_areacradle.bundle	Assets/Audio/HornetMusic/Battle/H191-14 SILK B.wav
+Slab	atmos_slab	audiocuesstatic_assets_areaslab.bundle	Assets/Audio/Atmos/atmos_slab.wav
+SongGolem	H92 Chorus	sfxstatic_assets_areaboneareadocks.bundle	Assets/Audio/HornetMusic/Battle/H92 Chorus.wav
+Spinner	Shreddy Game	sfxstatic_assets_areabellareaslab.bundle	Assets/Audio/HornetMusic/Battle/Shreddy Game.wav
+SpinnerRage	Shreddy Re-arrangement 2nd phase	sfxstatic_assets_areabellareaslab.bundle	Assets/Audio/HornetMusic/Battle/Shreddy Re-arrangement 2nd phase.wav
+SurfaceAscent	H129-25 Weaver experiment 2	sfxstatic_assets_areacradle.bundle	Assets/Audio/HornetMusic/H129-25 Weaver experiment 2.wav
+Title	Title	audiocuesstatic_assets_menu.bundle	Assets/Audio/HornetMusic/Title.wav
+TormentedTrobbio	Tormented Trobbio v2-06	sfxstatic_assets_trobbio.bundle	Assets/Audio/HornetMusic/Battle/Tormented Trobbio v2-06.wav
+Trobbio	H144-71 WIP Trobbio	sfxstatic_assets_trobbio.bundle	Assets/Audio/HornetMusic/Battle/H144-71 WIP Trobbio.wav
+Understore	atmos_under	audiocuesstatic_assets_areaunderstore.bundle	Assets/Audio/Atmos/atmos_under.wav
+Vaults	New Vaults Temp	sfxstatic_assets_areabonearealibrary.bundle	Assets/Audio/HornetMusic/Citadel/New Vaults Temp.wav
+Ward	H129-25 ward	audiocuesstatic_assets_areaward.bundle	Assets/Audio/HornetMusic/Citadel/H129-25 ward.wav
+Weaverlands	Memories	audiocuesstatic_assets_areamemory.bundle	Assets/Audio/HornetMusic/Memories.wav
+Wilds	H117 Wilds-30 MAIN	sfxstatic_assets_areawilds.bundle	Assets/Audio/HornetMusic/Wilds/H117 Wilds-30 MAIN.wav
+Wisp	H211 Bit Dreamy	sfxstatic_assets_areawisp.bundle	Assets/Audio/HornetMusic/H211 Bit Dreamy.wav
+Crawl (Main)	atmos_crawl	sfxstatic_assets_areacrawl.bundle	Assets/Audio/Atmos/atmos_crawl.wav
+Crawl (Main Alt)	cave_atmos_misc_3	sfxstatic_assets_areahangareashellwood.bundle	Assets/Audio/Atmos/cave_atmos_misc_3.wav
+Deep Docks (Main)	atmos_deep_docks_interior_no_steam	sfxstatic_assets_areabellwayareadocksareasongareawilds.bundle	Assets/Audio/Atmos/atmos_deep_docks_interior_no_steam.wav
+Deep Docks (Main Alt)	atmos_deep_docks_exterior	audiocuesstatic_assets_areadocks.bundle	Assets/Audio/Atmos/atmos_deep_docks_exterior.wav
+Deep Docks (Action)	atmos_boneforest	audiocuesstatic_assets_areabone.bundle	Assets/Audio/HornetMusic/ATMOS/atmos_boneforest.wav
+// v6.17 追加：13 首直接播放长音乐（无 MusicCue，键 = clip 名 = 曲名，供原声试听兜底）
+Final_Credits	Final_Credits	audiocuesstatic_assets_menu.bundle	Assets/Audio/HornetMusic/Credits/Final_Credits.wav
+Fleatopia Paired Back B	Fleatopia Paired Back B	audiocuesstatic_assets_shared.bundle	Assets/Audio/HornetMusic/Fleatopia Paired Back B.wav
+Enclave_Credits	Enclave_Credits	audiocuesstatic_assets_menu.bundle	Assets/Audio/HornetMusic/Credits/Enclave_Credits.wav
+Shrine Act 3	Shrine Act 3	sfxstatic_assets_shared.bundle	Assets/Audio/HornetMusic/SHRINE/Shrine Act 3.wav
+Deep Melody tension v2-04	Deep Melody tension v2-04	audiocuesstatic_assets_areamemory.bundle	Assets/Audio/HornetMusic/Deep Melody tension v2-04.wav
+H182 ambient peaceful	H182 ambient peaceful	audiocuesstatic_assets_areasong.bundle	Assets/Audio/HornetMusic/Citadel/H182 ambient peaceful.wav
+Fleatopia Paired Back A	Fleatopia Paired Back A	audiocuesstatic_assets_shared.bundle	Assets/Audio/HornetMusic/Fleatopia Paired Back A.wav
+H181ClockworkDancers3rdPhase	H181ClockworkDancers3rdPhase	sfxstatic_assets_areacog.bundle	Assets/Audio/HornetMusic/Battle/H181ClockworkDancers3rdPhase.wav
+H181ClockworkDancers4thPhase	H181ClockworkDancers4thPhase	sfxstatic_assets_areacog.bundle	Assets/Audio/HornetMusic/Battle/H181ClockworkDancers4thPhase.wav
+Mini Games-07	Mini Games-07	sfxstatic_assets_areabonesprintmaster.bundle	Assets/Audio/HornetMusic/Mini Games-07.wav
+Flea Festival	Flea Festival	audiocuesstatic_assets_shared.bundle	Assets/Audio/HornetMusic/Flea Festival.wav
+H181ClockworkDancers1stPhase	H181ClockworkDancers1stPhase	sfxstatic_assets_areacog.bundle	Assets/Audio/HornetMusic/Battle/H181ClockworkDancers1stPhase.wav
+H181ClockworkDancers2ndPhase	H181ClockworkDancers2ndPhase	sfxstatic_assets_areacog.bundle	Assets/Audio/HornetMusic/Battle/H181ClockworkDancers2ndPhase.wav

@@ -1,0 +1,7 @@
+// 合并条目：一个列表条目 = 多个真实 MusicCue；替换时整体替换全部成员。
+// 每行格式：显示名=真实cue1|真实cue2|... （显示名本身可以是其中一员）
+// 以 // 或 # 开头的行会被忽略。成员的真实 cue 名必须与游戏资产一致。
+
+CitadelHalls=CitadelHalls|CitadelHalls Act3
+MossCave=MossCave|MossCave Act3
+MistMaze=MistMaze|MistMaze_Organ
