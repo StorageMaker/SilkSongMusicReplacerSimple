@@ -115,3 +115,4 @@ Mini Games-07	Mini Games-07	sfxstatic_assets_areabonesprintmaster.bundle	Assets/
 Flea Festival	Flea Festival	audiocuesstatic_assets_shared.bundle	Assets/Audio/HornetMusic/Flea Festival.wav
 H181ClockworkDancers1stPhase	H181ClockworkDancers1stPhase	sfxstatic_assets_areacog.bundle	Assets/Audio/HornetMusic/Battle/H181ClockworkDancers1stPhase.wav
 H181ClockworkDancers2ndPhase	H181ClockworkDancers2ndPhase	sfxstatic_assets_areacog.bundle	Assets/Audio/HornetMusic/Battle/H181ClockworkDancers2ndPhase.wav
+Coral_River	Coral_Gorge_Main	audiocuesstatic_assets_areacoral.bundle	Assets/Audio/HornetMusic/CORAL GORGE/Coral_Gorge_Main.wav
